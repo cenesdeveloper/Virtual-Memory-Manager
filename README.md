@@ -50,10 +50,3 @@ You can also pass file paths manually:
 ```bash
 ./vmm addresses.txt BACKING_STORE.bin
 ```
-
-## Resume bullets
-
-**Virtual Memory Manager & TLB Simulator | C, Linux, Memory Management**
-
-- Built a virtual memory manager in C simulating page tables, TLB caching, page faults, FIFO page replacement, and logical-to-physical address translation.
-- Implemented memory-mapped backing store access, modular TLB/page table logic, and performance reporting for TLB hit rate, page fault rate, and page replacement behavior.
